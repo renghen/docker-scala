@@ -1,0 +1,13 @@
+*.class
+*.log
+.bloop/
+.metals/
+.vscode/
+.bsp/
+project/.bloop
+project/project
+project/target
+target/
+misc/
+
+
